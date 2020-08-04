@@ -5,10 +5,11 @@
 
 ### Hey there! 👋
 
-I'm a Software Development student 💻 in Rio de Janeiro, Brazil 🌎
+I'm a Software Development student from Brazil 🌎 
+1+ year of experience in Front-end and Back-end 💻
 
 - 💙 Techs: HTML5, CSS3, Javascript ES6+, Python and Django
-- 💻 Brief experience: TypeScript, JSX, NodeJS, ReactJS, Java, PHP and C
+- 📚 Brief experience: TypeScript, JSX, NodeJS, ReactJS, Java, PHP and C
 - ⚡ Fun fact: I want to be Fullstack Developer
 - 🚀 Future interests: AI, IoT, Docker and Mobile Development
 
