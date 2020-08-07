@@ -8,10 +8,13 @@
 ### Hey there! 👋
 
 I'm a Software Development student from Brazil 🌎 
+<hr />
 1+ year of experience in Front-end and Back-end 💻
 
-- 💙 Techs: HTML5, CSS3, Javascript ES6+, Python and Django
-- 📚 Brief experience: TypeScript, JSX, NodeJS, ReactJS, Java, PHP and C
+- 💙 Techs: HTML5, CSS3, Pure Javascript(and ES6+) and Python 
+- 💡 Frameworks, libs and utilities: React.js, Node.js, Knex.js, Express.js, TypeScript, JSX, jQuery and Django
+- 🔛 Brief experience: Java, PHP and C
+- 🔐 Database: MySQL, SQLServer, Oracle, SQLite and Access
 - ⚡ Fun fact: I want to be Fullstack Developer
 - 🚀 Future interests: AI, IoT, Docker and Mobile Development
 
