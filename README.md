@@ -7,8 +7,11 @@
 
 ### Hey there! 👋
 
-<p>🌎 I'm a Software Development student from Brazil<p/>
-<p>💻 2 years of experience in Front-end and Back-end<p/>
+<hr/>
+
+- 🌎 I'm Software Developer Intern at Rádio Globo in Rio de Janeiro, Brazil
+- 📚 I study Analysis and System Development (last period) at the university of Candido Mendes - UCAM 
+- 💻 2 years of experience in Front-end and Back-end
 
 <hr/>
 
