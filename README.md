@@ -10,7 +10,7 @@
 <hr/>
 
 - 🌎 I'm Software Developer Intern at Rádio Globo in Rio de Janeiro, Brazil
-- 📚 I study Analysis and System Development (last period) at the University of Candido Mendes
+- 📚 I'm graduating in System Analysis and Development (last period) at the University of Candido Mendes
 - 💻 2 years of experience in Front-end and Back-end
 
 <hr/>
