@@ -7,9 +7,10 @@
 
 ### Hey there! 👋
 
-I'm a Software Development student from Brazil 🌎 
-<hr />
-1+ year of experience in Front-end and Back-end 💻
+<p>🌎 I'm a Software Development student from Brazil<p/>
+<p>💻 2 years of experience in Front-end and Back-end<p/>
+
+<hr/>
 
 - 💙 Techs: HTML5, CSS3, Pure Javascript(and ES6+) and Python 
 - 💡 Frameworks, libs and utilities: React.js, Node.js, Knex.js, Express.js, TypeScript, JSX, jQuery and Django
