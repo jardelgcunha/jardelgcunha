@@ -9,14 +9,14 @@
 
 <hr/>
 
-- 🌎 I'm Software Developer Intern at Rádio Globo in Rio de Janeiro, Brazil
+- 🌎 I'm Web Developer Intern at Rádio Globo in Rio de Janeiro, Brazil
 - 📚 I'm graduating in System Analysis and Development at the University of Candido Mendes
 - 💻 2 years of experience in Front-end and Back-end
 
 <hr/>
 
 - 💙 Techs: HTML5, CSS3, Pure Javascript(and ES6+) and Python 
-- 💡 Frameworks, libs and utilities: React.js, Node.js, Knex.js, Express.js, TypeScript, JSX, jQuery and Django
+- 💡 Frameworks, libs and utilities: React.js, Node.js, TypeScript, JSX, jQuery, Insomnia (API), Knex.js, Express.js and Django
 - 🔛 Brief experience: Java, PHP and C
 - 🔐 Database: MySQL, SQLServer, Oracle, SQLite and Access
 - ⚡ Fun fact: I want to be Fullstack Developer
