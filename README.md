@@ -17,7 +17,8 @@
 
 <hr/>
 
-- 💙 Main Techs: Java, Javascript, React, React Native, Node.js, HTML5 and CSS3
+- ❤️ Main Techs: Java, PHP, Javascript, HTML5 and CSS3
+- 💙 Secondary Techs: ReactJS, NodeJS and React Native
 - 💡 Main Frameworks, libs and utilities: Quarkus, Spring, JQuery, Composer, JUnit, PHPUnit, PHPCS, PHAN, Bootstrap and Sass
 - 🔛 Brief experience: Python, Django, TypeScript, Next.js, Knex.js, Express.js, JSX, Wordpress and C
 - 🔐 Database: MySQL, SQLServer, PostgreSQL, Oracle, SQLite and Access
