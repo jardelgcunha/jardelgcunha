@@ -8,19 +8,23 @@
 
 <hr/>
 
-- 🌎 I'm Full Stack Developer at Proderj in Rio de Janeiro, Brazil
+- 🌎 I'm Full Stack Developer at Extreme Digital Solutions in Rio de Janeiro, Brazil
 - 🎓 Master's degree in Mobile Developer at the Estacio de Sa University 
 - 🎓 Bachelor's degree in Software Engineering at the Candido Mendes University 
 - 🎓 I have a degree in English from Uptime
-- 💻 5 years of experience in Software Developer 
+- 💻 6 years of experience in Software Developer 
 - 💻 2 years of experience in IT Support Engineer
 
 <hr/>
 
-- ❤️ Main Techs: Java, PHP, Javascript, HTML5 and CSS3
-- 💙 Secondary Techs: ReactJS, NodeJS and React Native
-- 💡 Main Frameworks, libs and utilities: Quarkus, Spring, JQuery, Composer, JUnit, PHPUnit, PHPCS, PHAN, Bootstrap and Sass
-- 🔛 Brief experience: Python, Django, TypeScript, Next.js, Knex.js, Express.js, JSX, Wordpress and C
+- ❤️ Backend: Java (Quarkus, Spring, Hibernate, JPA and Panache), PHP (Laravel, Eloquent, Doctrine and PDO), Node.js (Knex.js, Express.js and Sequelize ORM), Python (Django) and C
+- 💙 Frontend: React (Next.js, JSX, Redux, Axios, JWT), TypeScript, Javascript(Webpack, Vite, Moment.js and jQuery), CSS (Bootstrap, SaSS, Tailwind and Material UI) and HTML
+- 📱 Mobile: React Native
+- 🧪 Tests: JUnit, Mockito, Selenium, Spring Test, PHPUnit, PHPStan, PHPSpec, Xdebug, Jest, Cypress and Mocha
+- 📦 Deploy and CI/CD: Docker, Vercel, Heroku and Jenkins
+- 🛠️ API tools: Swagger, OpenAPI, Postman, Insomnia and SoapUI
+- 📋 Project Management tools: Jira and Trello
+- 🔛 Brief experience: Figma, Wordpress, Google Analytics, Qlik Sense and ERP Sankhya
 - 🔐 Database: MySQL, SQLServer, PostgreSQL, Oracle, SQLite and Access
 - 🚀 Future interests: Mobile Development
 
